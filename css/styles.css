@@ -1,0 +1,12 @@
+div{
+  height:30em;
+  width: 50em;
+  background-color: purple;
+  border-color: 3em solid black;
+}
+
+.btn{
+  background-color: green;
+  height: 10em;
+  width: 20em;
+}
